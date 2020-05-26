@@ -10,18 +10,16 @@ Includes loaders for:
  - Webpack development server with hot reloading
 
 
-# # Getting started
+## Getting started
 1. Clone project
 2. Go to project's root directory
 3. run `npm install`
 
 
-# # Run Dev server
-
+## Run Dev server
 In same root directory run `npm run start:dev` 
 
-# # Build for production
-
+## Build for production
 Run `npm run build` to build project's assets in `dist` folder.
 
 Template created followiwng arboshiki tutorial! [https://github.com/arboshiki/webpack-starter-kit]
